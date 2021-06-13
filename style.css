@@ -365,6 +365,7 @@ footer img{
   }
 .attribution a {
    color: hsl(228, 45%, 44%);
+	text-decoration:none;
    }
 
 
@@ -535,12 +536,16 @@ margin:0;
 #editor p{
 margin: 0 0 3em 0;
 }
+	
+	
+	
+	
 .art{
   flex-direction:column-reverse;
   height: 70vh;
   padding: 0 0 4em 0;
   margin: 5em 0 3em 0;
-  /* background-size: 50vw; */
+  background-size: 100vw;
 }
 .art img{
   max-width: 60%;
@@ -554,7 +559,13 @@ margin: 0 0 3em 0;
 .art h5{
   font-size: 1.7rem;
 }
+.art p{
+width:100%;
+}
 
+	
+	
+	
 .free{
   flex-direction:column-reverse;
   padding: 0;
