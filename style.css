@@ -386,6 +386,10 @@ footer img{
 
 .intro{
   height: 80vh;
+	  background:url(images/bg-pattern-intro.svg) center, linear-gradient(to right,
+    hsl(13, 100%, 72%), 
+    hsl(353, 100%, 62%)
+     );
 }
 #hamburger{
   display: block;
