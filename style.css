@@ -421,6 +421,7 @@ nav{
   background-color:white ;
   height: 75vh;
   box-shadow: 0 2px var(--grayishBlue) ;
+ border-radius: 5px;
   
 }
 nav #myUL{
